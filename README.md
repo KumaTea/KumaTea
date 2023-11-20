@@ -1,16 +1,16 @@
 ## Hi! KumaTea here 👋
 
-I major in Clinical Medicine while have strong interests in Computer Science.
+I major in Clinical Medicine while having a strong interest in Computer Science.
 
 I use Python for most of my projects.
 
-I seldom check my email but stay 24/7 in [Telegram @KumaTea](https://t.me/KumaTea).
+I seldom check my email but stay 24/7 on [Telegram @KumaTea](https://t.me/KumaTea).
 
 ## Projects
 
 ### Active
 
-I enjoy exploring new and emerging things before they become popular.
+I enjoy exploring new and emerging things before they popularize.
 
 * [pypy-wheels](https://github.com/KumaTea/pypy-wheels)
 * [riscv-wheels](https://github.com/KumaTea/riscv-wheels)
@@ -32,7 +32,7 @@ I love developing Telegram bots.
 
 ### Others
 
-Check out my blog, it's fast and simple.
+Check out my blog! It's light and fast.
 
 * [blog.kmtea.eu](https://blog.kmtea.eu)
 * [source](https://github.com/KumaTea/blog)
