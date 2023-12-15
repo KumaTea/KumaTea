@@ -30,6 +30,7 @@ I love developing Telegram bots.
 * [@KumaLiteBot](https://github.com/KumaTea/KumaLiteBot)
 * [@DKJCBot](https://github.com/KumaTea/daka)
 * [@rbevbot](https://github.com/KumaTea/EvalBot)
+* [@jiedubot](https://github.com/KumaTea/GamBot)
 
 ### Others
 
