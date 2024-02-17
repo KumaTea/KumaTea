@@ -2,9 +2,7 @@
 
 Major in Clinical Medicine & having a strong interest in Computer Science.
 
-Use Python for most of my projects.
-
-Seldom check my email but stay 24/7 on [Telegram @KumaTea](https://t.me/KumaTea).
+Use Python for most of my projects. Learning Rust.
 
 ## Projects
 
@@ -28,9 +26,10 @@ I love developing Telegram bots.
 * [@KumaTea_Bot](https://github.com/KumaTea/KumaTea-bot)
 * [@rbskbot](https://github.com/KumaTea/NextBot)
 * [@KumaLiteBot](https://github.com/KumaTea/KumaLiteBot)
-* [@DKJCBot](https://github.com/KumaTea/daka)
 * [@rbevbot](https://github.com/KumaTea/EvalBot)
 * [@jiedubot](https://github.com/KumaTea/GamBot)
+* [@rmTrackBot](https://github.com/KumaTea/lite-bots/tree/main/rmTrackBot)
+* ~[@DKJCBot](https://github.com/KumaTea/daka)~
 
 ### Others
 
