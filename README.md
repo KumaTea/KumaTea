@@ -2,7 +2,7 @@
 
 Major in Clinical Medicine. Have a strong interest in Programming.
 
-Use Python for most projects. Learning Rust.
+Use Python for most projects. Learning R & Rust.
 
 ## Projects
 
@@ -49,17 +49,14 @@ Check out my blog! It's light and fast.
   
   Listing (not in order) platforms and individuals who provided help during my process of learning programming.
 
-  ### Active
-
-  * <a href="https://github.com/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="60" alt="GitHub" /></a> For providing [Education Pack](https://education.github.com/students), especially Copilot access, and files & pages hosting (via releases)
-  * <a href="https://www.jetbrains.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/240px-JetBrains_beam_logo.svg.png" height="60" alt="JetBrains" /></a> For providing [Education Pack](https://www.jetbrains.com/community/education/)
+  * <a href="https://github.com/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="60" alt="GitHub" /></a> For providing [Education Pack][19] (especially Copilot access), pages hosting, and files distribution
+  * <a href="https://www.jetbrains.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/240px-JetBrains_beam_logo.svg.png" height="60" alt="JetBrains" /></a> For providing IDEs access via [Education Pack][20]
   * <a href="https://www.cloudflare.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/240px-Cloudflare_Logo.png" height="60" alt="Cloudflare" /></a> For providing free DNS service, CDN proxies and Workers
-
-  ### Archive
-  
   * <a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/150px-Microsoft_Azure.svg.png" height="60" alt="Azure" /></a> For providing Education Pack (through Github), especially VPS
 </details>
 
+
+<!-- URL References -->
 
 [1]: https://github.com/KumaTea/pypy-wheels
 [2]: https://github.com/KumaTea/riscv-wheels
@@ -79,3 +76,5 @@ Check out my blog! It's light and fast.
 [16]: https://github.com/KumaTea/genshin-dual-sub
 [17]: https://github.com/KumaTea/Dragalia-bot
 [18]: https://github.com/KumaTea/ext-whl
+[19]: https://education.github.com/students
+[20]: https://www.jetbrains.com/community/education/
